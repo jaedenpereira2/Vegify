@@ -43,6 +43,3 @@ Vegify is a Kotlin-based Android application that helps users generate recipes a
 
 ## Contributing
 This project is for learning purposes, but feel free to fork and suggest improvements!
-
-## License
-[MIT](LICENSE) 
