@@ -1,0 +1,16 @@
+# Android/IntelliJ
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+*.apk
+*.keystore
+
+# Sensitive files
+local.properties
+.env 
